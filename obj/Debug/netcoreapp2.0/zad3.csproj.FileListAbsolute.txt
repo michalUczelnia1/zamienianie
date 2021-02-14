@@ -1,0 +1,10 @@
+/Users/michalm/Projects/zad/zad3/bin/Debug/netcoreapp2.0/zad3.deps.json
+/Users/michalm/Projects/zad/zad3/bin/Debug/netcoreapp2.0/zad3.runtimeconfig.json
+/Users/michalm/Projects/zad/zad3/bin/Debug/netcoreapp2.0/zad3.runtimeconfig.dev.json
+/Users/michalm/Projects/zad/zad3/bin/Debug/netcoreapp2.0/zad3.dll
+/Users/michalm/Projects/zad/zad3/bin/Debug/netcoreapp2.0/zad3.pdb
+/Users/michalm/Projects/zad/zad3/obj/Debug/netcoreapp2.0/zad3.csproj.CoreCompileInputs.cache
+/Users/michalm/Projects/zad/zad3/obj/Debug/netcoreapp2.0/zad3.AssemblyInfoInputs.cache
+/Users/michalm/Projects/zad/zad3/obj/Debug/netcoreapp2.0/zad3.AssemblyInfo.cs
+/Users/michalm/Projects/zad/zad3/obj/Debug/netcoreapp2.0/zad3.dll
+/Users/michalm/Projects/zad/zad3/obj/Debug/netcoreapp2.0/zad3.pdb
